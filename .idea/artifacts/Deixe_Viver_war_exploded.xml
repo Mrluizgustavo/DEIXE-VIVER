@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Deixe_Viver:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Deixe_Viver_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Deixe_Viver" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Deixe_Viver/web/Web" />
+    </root>
+  </artifact>
+</component>
